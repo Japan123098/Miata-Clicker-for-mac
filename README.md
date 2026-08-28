@@ -4,3 +4,4 @@ the scratch version is on https://scratch.mit.edu/projects/1351671757/ and
 miata clicker is originally made in scratch 3.
 Also, Apple may flag this as potential malware, it isn't.
 It's not a zip bomb bc im too bad at coding to make that.
+And also, yes, I removed cV136 bc it was getting annoying when posting updates.
